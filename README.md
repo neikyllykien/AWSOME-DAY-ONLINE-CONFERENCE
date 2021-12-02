@@ -1,5 +1,5 @@
 # AWSOME-DAY-ONLINE-CONFERENCE
-Chương trình đào tạo của AWS  để giúp bạn bắt đầu hành trình đám mây
+Chương trình đào tạo của AWS  
 <p align="center"> <img src="img/certificate.png" width="450"> </p>
 
 Có 5 modul
